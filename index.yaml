@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   partyou-web:
   - apiVersion: v1
-    appVersion: "3.0"
+    appVersion: "4.0"
     created: 2018-07-02T18:33:50.824189911-03:00
     description: A Helm chart for Kubernetes
     digest: 63445dc233aad3b8b114f901c6a28785f319ec0705319af351b2b69d1c4f84b7
     name: partyou-web
     urls:
-    - partyou-web-0.3.0.tgz
-    version: 0.3.0
+    - partyou-web-0.4.0.tgz
+    version: 0.4.0
 generated: 2018-07-10T08:33:50.82387557-03:00
